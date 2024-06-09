@@ -8,3 +8,5 @@
 **api_ingestion.py** - python script to ingest json data from a public or private api, and convert it to a csv file.
 
 **basic_rest_api.py** - boilerplate for a Flask rest api. Works with sqlite database as functionality for adding, deleting, and updating records.
+
+**combine_mp3s.py** - python script to combine mp3 audio files into one continuous file.
